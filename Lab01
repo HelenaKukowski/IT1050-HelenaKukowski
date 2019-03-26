@@ -1,0 +1,4 @@
+namespace Lab01
+{ class Lab01
+}
+Concole.Writeline("Hello Worl")
